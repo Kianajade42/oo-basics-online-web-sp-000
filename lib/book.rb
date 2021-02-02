@@ -25,4 +25,6 @@ def page_count=(num)
   def genre
     @genre
   end
+  def turn_page
+  end
 end
